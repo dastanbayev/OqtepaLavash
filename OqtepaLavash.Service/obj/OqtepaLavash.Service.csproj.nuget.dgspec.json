@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Service\\OqtepaLavash.Service.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Data\\OqtepaLavash.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Data\\OqtepaLavash.Data.csproj",
+        "projectName": "OqtepaLavash.Data",
+        "projectPath": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Data\\OqtepaLavash.Data.csproj",
+        "packagesPath": "C:\\Users\\99893\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\99893\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Domain\\OqtepaLavash.Domain.csproj": {
+                "projectPath": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Domain\\OqtepaLavash.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Domain\\OqtepaLavash.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Domain\\OqtepaLavash.Domain.csproj",
+        "projectName": "OqtepaLavash.Domain",
+        "projectPath": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Domain\\OqtepaLavash.Domain.csproj",
+        "packagesPath": "C:\\Users\\99893\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\99893\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Service\\OqtepaLavash.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Service\\OqtepaLavash.Service.csproj",
+        "projectName": "OqtepaLavash.Service",
+        "projectPath": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Service\\OqtepaLavash.Service.csproj",
+        "packagesPath": "C:\\Users\\99893\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\99893\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Data\\OqtepaLavash.Data.csproj": {
+                "projectPath": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Data\\OqtepaLavash.Data.csproj"
+              },
+              "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Domain\\OqtepaLavash.Domain.csproj": {
+                "projectPath": "E:\\Projects\\Consol\\OqtepaLavash_net6\\OqtepaLavash.Domain\\OqtepaLavash.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

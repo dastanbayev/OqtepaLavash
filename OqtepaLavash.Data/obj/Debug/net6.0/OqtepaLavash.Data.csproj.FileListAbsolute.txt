@@ -1,0 +1,17 @@
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\bin\Debug\net6.0\OqtepaLavash.Data.deps.json
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\bin\Debug\net6.0\OqtepaLavash.Data.runtimeconfig.json
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\bin\Debug\net6.0\OqtepaLavash.Data.dll
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\bin\Debug\net6.0\OqtepaLavash.Data.pdb
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\bin\Debug\net6.0\OqtepaLavash.Domain.dll
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\bin\Debug\net6.0\OqtepaLavash.Domain.pdb
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\OqtepaLavash.Data.csproj.AssemblyReference.cache
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\OqtepaLavash.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\OqtepaLavash.Data.AssemblyInfoInputs.cache
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\OqtepaLavash.Data.AssemblyInfo.cs
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\OqtepaLavash.Data.csproj.CoreCompileInputs.cache
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\OqtepaLavash.Data.csproj.CopyComplete
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\OqtepaLavash.Data.dll
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\refint\OqtepaLavash.Data.dll
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\OqtepaLavash.Data.pdb
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\OqtepaLavash.Data.genruntimeconfig.cache
+E:\Projects\Consol\OqtepaLavash_net6\OqtepaLavash.Data\obj\Debug\net6.0\ref\OqtepaLavash.Data.dll
